@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Helvetica;
+}
+.introduction{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+}
+h2.introduction{
+    color: red;
+}
+
+img.introduction {
+    border: 5px solid #000;
+}
